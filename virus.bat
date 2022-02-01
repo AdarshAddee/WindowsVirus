@@ -1,5 +1,4 @@
 @echo off
-echo new code
 goto fire
 
 :fire
