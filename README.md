@@ -10,7 +10,8 @@ Download zip file of this repository.
 Unzip it with a any zip extracter software
 </pre>
   
-<pre>This will not work in Linux-distroes</pre>
+# Note
+This will <b>not work in Linux-distroes</b>. Do not use this tool for any <b>evil activity.</b>
   
 # Termux
 <pre>
